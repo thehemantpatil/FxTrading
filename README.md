@@ -18,7 +18,7 @@
 - To clone project copy and paste following link into terminal.
 
 ``` 
-	https://github.com/thehemantpatil/FxTrading.git 
+	git clone https://github.com/thehemantpatil/FxTrading.git 
 ```
 
 - To Compile Program. Go to Project Directory and Enter Following Command.
