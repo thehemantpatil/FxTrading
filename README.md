@@ -61,6 +61,7 @@ Do you want to get Rate
 
 - Always add currency pair separated by ```-```.
 
+- Print Trades option will print all the trades mades upto the date.
 
 - Rest of the things are mentioned in App.
 
