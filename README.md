@@ -59,7 +59,7 @@ Do you want to get Rate
 
 ```
 
-- Always add currency pair separated by ```-`````.
+- Always add currency pair separated by ```-```.
 
 
 - Rest of the things are mentioned in App.
@@ -73,6 +73,6 @@ Do you want to get Rate
 <br>
 
 <hr>
-	<h3 style = "text-align:center">Thanks</h3>
+	<h3 align="center">Thanks</h3>
 <hr>
 
