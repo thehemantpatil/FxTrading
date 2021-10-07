@@ -9,7 +9,7 @@ public class OnBoarding {
 		System.out.println("Enter your Choice:- ");
 		System.out.println("");
 		System.out.println("1. Book Trade");
-		System.out.println("1. Print Trades");
+		System.out.println("2. Print Trades");
 		System.out.println("3. Exit");
 
 	}
@@ -20,7 +20,7 @@ public class OnBoarding {
 			while(true) {
 				
 				Scanner input = new Scanner(System.in);
-				input.close();
+
 				int userChoice = -1;
 
 				if (input.hasNextInt()) {
